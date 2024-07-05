@@ -16,14 +16,6 @@ The zkSync Era prover is distributed under the terms of either
 
 at your option.
 
-## Official Links
-
-- [Website](https://zksync.io/)
-- [GitHub](https://github.com/matter-labs)
-- [Twitter](https://twitter.com/zksync)
-- [Twitter for Devs](https://twitter.com/zkSyncDevs)
-- [Discord](https://join.zksync.dev)
-
 ## Disclaimer
 
 zkSync Era has been through lots of testing and audits. Although it is live, it is still in alpha state and will go
